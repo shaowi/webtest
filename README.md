@@ -11,6 +11,8 @@ Notes: If you prefer to run other web servers, eg. NGINX or Flask, you can do so
 2. Design and build a simple webpage hosted on X that uploads a file and sends it to virustotal API for scanning for virus/malware.   Note that there is a public API that is available for free.
 https://support.virustotal.com/hc/en-us/articles/115002100149-API4.
 
+You can code in any web language or framework you are strong in, eg. javascript, Python, PHP, etc.    
+
 3. Using the webpage build in Step 2, upload the files we have included in this github repository for scanning.  After that, please present your results on the webpage hosted on X after the virustotal scan.  You are free to design and add on your own database or file storage/processing system if required.  
 
 In the next interview, do share with us your setup, your source code and the results from the virustotal scan.  We are interested to hear your thinking and design process, challenges you encountered, how you overcame them, etc in the next session:)  
