@@ -1,0 +1,22 @@
+{
+  "name": "webtest",
+  "version": "1.0.0",
+  "description": "Assignment for developer role",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "bull": "^3.22.1",
+    "express": "^4.18.3",
+    "express-fileupload": "^1.4.3",
+    "http": "0.0.1-security",
+    "ws": "^8.16.0"
+  },
+  "keywords": [],
+  "author": "Shao",
+  "license": "ISC",
+  "type": "module"
+}

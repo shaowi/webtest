@@ -1,0 +1,21 @@
+<html>
+  <script>
+    document
+      .getElementById('uploadForm')
+      .addEventListener('submit', function (event) {
+        event.preventDefault(); // Prevent the form from submitting
+      });
+  </script>
+  <body>
+    <form
+      ref="uploadForm"
+      id="uploadForm"
+      action="http://localhost:8000/upload"
+      method="post"
+      enctype="multipart/form-data"
+    >
+      <input type="file" name="sampleFile" />
+      <input type="submit" value="Upload" />
+    </form>
+  </body>
+</html>
